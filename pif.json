@@ -1,3 +1,4 @@
+{
   "MANUFACTURER": "Google",
   "MODEL": "Pixel 11 Pro XL",
   "FINGERPRINT": "google/kodiak_beta/kodiak:CANARY/ZP11.261016.008/16754936:user/release-keys",
@@ -5,3 +6,4 @@
   "DEVICE": "kodiak",
   "SECURITY_PATCH": "2026-11-05",
   "DEVICE_INITIAL_SDK_INT": "37"
+}

@@ -5,6 +5,6 @@
   "BRAND": "google",
   "PRODUCT": "bluejay_beta",
   "DEVICE": "bluejay",
-  "SECURITY_PATCH": "2025-04-05",
+  "SECURITY_PATCH": "2026-11-05",
   "FIRST_API_LEVEL": 32
 }
